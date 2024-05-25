@@ -1,6 +1,7 @@
 # drug_interaction_checker
 
-A new Flutter project.
+To make the app work the folder "assets" has to be created in the main directory which then contains the CSV "CombinedDatasetConservative" with the data.
+
 
 ## Getting Started
 
